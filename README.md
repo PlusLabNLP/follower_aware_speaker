@@ -29,7 +29,7 @@ bash run/agent_clip_vit16.bash 0 # 0 is the id of GPU
 bash run/speaker_clip_vit16.bash 0
 bash run/foam_envdrop_clip_vit16.bash 0
 ```
-[Pretrained Checkpoint](https://drive.google.com/file/d/1XPrCPLVt6mC3Mja0p2fziGSHYMjE6Z9X/view?usp=sharing)
+[Pretrained Checkpoint](https://drive.google.com/file/d/1Qwl0zuVDJf0xBbtWG71pFhRc1UOMQm_z/view?usp=sharing)
 
 ## Citation
 ```
